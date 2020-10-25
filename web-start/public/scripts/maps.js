@@ -12,7 +12,6 @@ function initMap() {
     var infoBox = new makeInfoBox(infoBoxDiv, map);
     infoBoxDiv.index = 1;
     map.controls[google.maps.ControlPosition.TOP_CENTER].push(infoBoxDiv);
-
     // Create a heatmap.
     var heatmap = new google.maps.visualization.HeatmapLayer({
       data: [],

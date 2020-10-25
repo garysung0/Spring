@@ -35,6 +35,18 @@ var config = {
   messagingSenderId: '239490273689'
 };
 
+## Built With
+- Mongo.db
+- React Native
+- HTML5
+- CSS
+- Firebase
+- Google-maps API
+- Node.js
+- Javascript
+- Passport library
+- Express library
+
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
