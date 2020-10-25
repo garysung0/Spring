@@ -128,9 +128,6 @@ function saveMessagingDeviceToken() {
   });
 }
 
-// I got this: c6Ty-3TWs9a8Xb2bc1bHRg:APA91bHwFCNO24nM_j95RNmJxbMGjCbOYDyiI1kI9CIDRievN2qRzqKUztl1UpequPqABNXXBnuqDYEnT9K1IUKAHFY4k8dFUL70HG5Mf0J89Wq2Tgr2KxLBY8iR_HF3mP76dqE3mEkq
-// Server key: AAAAN8K7kZk:APA91bH8g-KQKQVYbNXpJhuf3P7QCov2Tn2oD-pRDXZ3FWAJGNfkwN8qgN0WKmakdtjvPpc6S4S4ZDGUUw1HCsWLHahPL8ACAX-jFt80ckm3uaEvshPSfUp550EqXA2VSgS2SEjLcI0_
-
 // Requests permission to show notifications.
 function requestNotificationsPermissions() {
   console.log('Requesting notifications permission...');
