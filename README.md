@@ -14,3 +14,10 @@ Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 See [LICENSE](LICENSE)
+
+
+## Usage
+- cd C:\Users\garys\repos\Spring\web-start
+- firebase deploy
+- http://localhost:5000/ or https://chat-e0b30.web.app/
+
